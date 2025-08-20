@@ -28,33 +28,22 @@ Currently, only the `install` command is supported.
 ---
 
 ## 🚀 Getting Started
-
-1. Clone or download this repository.
-2. Place the files inside your ComputerCraft: Tweaked computer/turtle/pocket computer.
-3. Run the startup file to boot into Ozy OS.
-
----
-
-## 📖 Documentation
-
-* Package Manager (`ozp`) usage
-* Window Manager setup
-* Autoupdate system (WIP)
+Install:
+```
+wget run https://raw.github.com/Kuberow/OZY-OS/main/install.lua
+```
+Packages are installed using `ozp`.
+For text editing install `rizer` using `ozp`.
 
 ---
+
 
 ## 💡 About
 
-Ozy OS is an experimental operating system project created by **Kuberow (Kristers)**. It’s still in active development and may change frequently.
+Ozy OS is an experimental operating system project created by **Kuberow**. It’s still in active development and may change frequently, while you can install a cool text editor `rizer`.
 
 ---
 
-## 🔗 Links
-
-* 🌍 GitHub Pages site: [Ozy OS Website](https://<your-username>.github.io/<repo-name>/)
-* 📂 GitHub Repository: [View Source](https://github.com/<your-username>/<repo-name>)
-
----
 
 ### ⭐ Support the Project
 
