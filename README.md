@@ -6,7 +6,6 @@
 
 ## ✨ Features
 
-* 🖥️ Simple and fast window management
 * 📦 Built-in package manager `ozp`
 * ⚡ Lightweight design
 * 🔧 Easy to customize
